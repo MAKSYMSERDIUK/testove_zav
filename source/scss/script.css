@@ -600,7 +600,7 @@ header {
   font-size: 36px;
   line-height: 1.25;
   color: #ffffff;
-  background: url(/img/Rectangle\ 172.jpg) center/cover no-repeat;
+  background: url('../../img/Rectangle172.jpg') center/cover no-repeat;
   padding: 250px 0px 0px 37px;
   height: 350px;
   transition: 0.6s;
@@ -636,7 +636,7 @@ header {
   font-size: 36px;
   line-height: 1.25;
   color: #ffffff;
-  background: url(/img/Rectangle\ 169.jpg) center/cover no-repeat;
+  background: url('../../img/Rectangle169.jpg') center/cover no-repeat;
   padding: 250px 0px 0px 37px;
   transition: 0.6s;
   height: 350px;
@@ -680,7 +680,7 @@ header {
   font-size: 36px;
   line-height: 1.25;
   color: #ffffff;
-  background: url(/img/Rectangle\ 170.jpg) center/cover no-repeat;
+  background: url('../../img/Rectangle170.jpg') center/cover no-repeat;
   padding: 250px 0px 0px 37px;
   height: 350px;
 }
@@ -1286,7 +1286,7 @@ header {
 
 .about_us {
   padding-top: 100px;
-  background-image: url(/img/Rectangle\ 174.jpg);
+  background-image: url('../../img/Rectangle174.jpg');
   background-repeat: no-repeat;
   background-position: right;
   margin-bottom: 100px;
@@ -1537,7 +1537,7 @@ input::placeholder {
 }
 .room_cover {
   padding: 100px 0px 118px 0px;
-  background-image: url(/img/Rectangle\ 175.jpg);
+  background-image: url('../../img/Rectangle175.jpg');
   background-repeat: no-repeat;
   z-index: -1;
 }
@@ -1704,9 +1704,7 @@ footer {
   margin-right: 5px;
 }
 
-.footer_cover {
-  background-image: url(/img/Rectangle\ 176.jpg);
-}
+
 
 .footer_bottom {
   display: flex;
